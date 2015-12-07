@@ -1,0 +1,5 @@
+# Cassandra Database
+cassandra:
+  build: .
+  expose:
+    - "9042"
